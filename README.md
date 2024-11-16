@@ -1,2 +1,2 @@
-# C-Sharp-Code
+# Cs-Code
 Basic C# Codes
